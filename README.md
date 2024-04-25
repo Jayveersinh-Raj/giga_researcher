@@ -4,7 +4,7 @@
 ### 😎 It is powered by [GigaChat](https://developers.sber.ru/docs/ru/gigachat/overview) and [GigaChain](https://github.com/ai-forever/gigachain). 
 
 ## System design:
-### The main idea is to run "planner" and "execution" agents, whereas the planner generates questions to research, and the execution agents seek the most related information based on each generated research question. Finally, the planner filters and aggregates all related information and creates a research report.
+### The main idea is to run "planner" and "execution" agents, whereas the planner generates questions to research, and the execution agents seek the most related information based on each generated research question. Finally, the reporter generator filters and aggregates all related information and creates a research report.
 
 ![Workflow](https://github.com/Jayveersinh-Raj/innoagent/assets/69463767/bca3dc67-8812-4f77-97ab-8b589c16e176)
 
