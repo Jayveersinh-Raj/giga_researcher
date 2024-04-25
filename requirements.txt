@@ -9,3 +9,4 @@ tiktoken
 requests
 duckduckgo-search
 arxiv
+sentence_transformers
