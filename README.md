@@ -44,3 +44,10 @@ Russian description can be accessed [here](README_RUS.md).
     http://localhost:4000/research-assistant/playground/
 ### 📖 Note: Put your own `GITHUB` and `GIGACHAIN` API keys in `secret_key.env`. This service would be hosted on `port:4000`, hence can be simultaneously used with `arxiv` or `web` agent.
 
+## Authors
+### Jayveersinh Raj
+
+### Made Oka Resia Wedamarta
+
+### Vladimir Kalabukhov
+
