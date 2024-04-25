@@ -7,7 +7,7 @@
 ## Дизайн системы:
 ### Процесс запускает агенты "planner", "executor" и "report generator" для проведения анализа литературы и создания отчета. Planner генерирует исследовательские вопросы. Затем, несколько executor-агентов ищут наиболее релевантную информацию на основе сгенерированных вопросов. Наконец, report generator фильтрует и агрегирует всю полученную информацию и создает отчет об исследовании.
 
-![Workflow](https://github.com/Jayveersinh-Raj/innoagent/assets/69463767/bca3dc67-8812-4f77-97ab-8b589c16e176)
+![Workflow](https://github.com/Jayveersinh-Raj/giga_researcher/assets/69463767/55333b33-bdc6-40b0-ba34-ea6d87088983)
 
 <br>
 
